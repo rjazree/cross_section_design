@@ -1,0 +1,28 @@
+
+/*
+Author: MINHAZUL ASIF ISLAM
+Email: mia.039@gmail.com
+project: divclass
+
+
+media query :
+@media (max-width: 767px) {}
+@media (min-width: 1200px) {}
+@media (min-width: 768px) {}
+*/
+
+.cross_wrapper{
+    height:500px;
+
+}
+
+.cross_left{
+    background:coral;
+    height:300px;
+}
+
+cross_right{
+    background:cornflowerblue;
+    height:300px;
+    padding:100px;
+}

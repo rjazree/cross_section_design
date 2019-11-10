@@ -1,0 +1,71 @@
+
+/*
+Author: MINHAZUL ASIF ISLAM
+Email: mia.039@gmail.com
+project: divclass
+
+
+media query :
+@media (max-width: 767px) {}
+@media (min-width: 1200px) {}
+@media (min-width: 768px) {}
+*/
+
+.cross_wrapper{
+    height:500px;
+
+}
+
+.cross_left{
+    background:coral;
+    height:400px;
+}
+
+.cross_right{
+    background:cornflowerblue;
+    height:400px;
+    padding:100px;
+    color:white;
+}
+
+
+.cross2_wrapper{
+    height:500px;
+    /*margin-top:-50px;
+*/
+}
+
+.cross2_left{
+    background:cornflowerblue;
+    height:400px;
+    padding:100px;
+    color:white;
+}
+
+.cross2_right{
+    background:coral;
+    height:400px;   
+  
+}
+
+.imgteam{
+    
+    width:300px;
+    padding:30px;
+}
+
+.team_wrapper{
+    margin:100px;
+    height:800px;
+    background-color:wheat;
+    padding:150px;
+}
+
+.teamimg{
+    width:250px;
+}
+
+.name{
+    color:red;
+    font-size:bold;
+}
